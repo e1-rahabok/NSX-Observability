@@ -1,0 +1,3 @@
+# Crawl output contains lab inventory and configuration
+output/
+__pycache__/
